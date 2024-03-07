@@ -28,7 +28,10 @@ welcome 🙌🏻 to
 |2023.03 &nbsp; ~|Verse Project|[Team](https://github.com/VERSEEEEE)|Frontend | Unity & C# |
 |2023.03 &nbsp; ~ &nbsp; 2023.06 | SnowBoard 개인 강습 신청 web |Personal| Frontend | HTML5 & CSS3 & JS |
 |2023.03 &nbsp; ~ &nbsp; 2023.06 | 내가 살고싶은 집 Design | Personal | Designer | 3DS MAX |
-|2023.12.26 &nbsp; ~ &nbsp; 2023.12.27|KOKOTON 대상 수상작 : Wiggle | [Team](https://github.com/Cokothon-T4F1) |Frontend | React |
+|2023.12.26 &nbsp; ~ &nbsp; 2023.12.27| 감정 공유 플레이리스트 : Wiggle | [Team](https://github.com/Cokothon-T4F1) |Frontend | React |
+
+## Awawrds 🏆
+2023.12.27 COKOTHON 대상
 
 ## I'm IN
 ||Name|
