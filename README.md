@@ -8,9 +8,7 @@ welcome 🙌🏻 to
 * ⚾️ watching MLB : LAD
 * ⚾️ watching KBO : Kiwoom Heroes
 
-### Languages
-<br>
-
+## Languages <br>
 ![react](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
@@ -24,14 +22,14 @@ welcome 🙌🏻 to
 ![figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![3DSMAX](https://img.shields.io/badge/3DSMAX-22BFB3?style=flat)
 
-## Projects
-|  | Title |Team/Personal| Role | Tool | Link |
-|---|---|---|---|---|---|
-|2022.03 &nbsp; ~ &nbsp; 2022.06 | 미디어 감상 기록 Web | Personal | Frontend |  HTML5 & CSS3 & JS ||
-|2023.03 &nbsp; ~|Verse Project|Team|Frontend | Unity & C# | [GitHub](https://github.com/VERSEEEEE) |
-|2023.03 &nbsp; ~ &nbsp; 2023.06 | SnowBoard 개인 강습 신청 web |Personal| Frontend | HTML5 & CSS3 & JS ||
-|2023.03 &nbsp; ~ &nbsp; 2023.06 | 내가 살고싶은 집 Design | Personal | Designer | 3DS MAX | |
-|2023.12.26 &nbsp; ~ &nbsp; 2023.12.27| <span style="color:yellow"> KOKOTON 대상 수상작 </span> : Wiggle | Team |Frontend | React | [GitHub](https://github.com/Cokothon-T4F1) |
+## Projects <br>
+|  | Title |Team/Personal| Role | Tool |
+|---|---|---|---|---|
+|2022.03 &nbsp; ~ &nbsp; 2022.06 | 미디어 감상 기록 Web | Personal | Frontend |  HTML5 & CSS3 & JS |
+|2023.03 &nbsp; ~|Verse Project|[Team](https://github.com/VERSEEEEE)|Frontend | Unity & C# |
+|2023.03 &nbsp; ~ &nbsp; 2023.06 | SnowBoard 개인 강습 신청 web |Personal| Frontend | HTML5 & CSS3 & JS |
+|2023.03 &nbsp; ~ &nbsp; 2023.06 | 내가 살고싶은 집 Design | Personal | Designer | 3DS MAX |
+|2023.12.26 &nbsp; ~ &nbsp; 2023.12.27|KOKOTON 대상 수상작 : Wiggle | [Team](https://github.com/Cokothon-T4F1) |Frontend | React |
 
 ## I'm IN
 ||Name|
