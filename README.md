@@ -1,6 +1,5 @@
 welcome 🙌🏻 to 
 # Yeonwoo Kim ' s GitHub
-<hr>
 
 ### Interest At <br>
 * 📺 watching K-Drama & K-Movie & K-POP 
