@@ -1,18 +1,50 @@
-### Hi there 👋
+welcome 🙌🏻 to 
+# Yeonwoo Kim ' s GitHub
+<hr>
+
+### Interest At <br>
+* 📺 watching K-Drama & K-Movie & K-POP 
+* 🏂 SnowBoarding 
+* ⚾️ watching MLB : LAD
+* ⚾️ watching KBO : Kiwoom Heroes
+
+### Languages
+<br>
+
+![react](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![Csharp](https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white)
+
+## Design Tool <br>
+![blender](https://img.shields.io/badge/blender-E87D0D?style=flat&logo=blender&logoColor=white)
+![figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![3DSMAX](https://img.shields.io/badge/3DSMAX-22BFB3?style=flat)
+
+## Projects
+|  | Title |Team/Personal| Role | Tool | Link |
+|---|---|---|---|---|---|
+|2022.03 &nbsp; ~ &nbsp; 2022.06 | 미디어 감상 기록 Web | Personal | Frontend |  HTML5 & CSS3 & JS ||
+|2023.03 &nbsp; ~|Verse Project|Team|Frontend | Unity & C# | [GitHub](https://github.com/VERSEEEEE) |
+|2023.03 &nbsp; ~ &nbsp; 2023.06 | SnowBoard 개인 강습 신청 web |Personal| Frontend | HTML5 & CSS3 & JS ||
+|2023.03 &nbsp; ~ &nbsp; 2023.06 | 내가 살고싶은 집 Design | Personal | Designer | 3DS MAX | |
+|2023.12.26 &nbsp; ~ &nbsp; 2023.12.27| <span style="color:yellow"> KOKOTON 대상 수상작 </span> : Wiggle | Team |Frontend | React | [GitHub](https://github.com/Cokothon-T4F1) |
+
+## I'm IN
+||Name|
+|--|--|
+|2023.03 ~ | 숙명여자대학교 게임 개발 소모임 #Verse |
 
 <!--
-**rladusdn02/rladusdn02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## STUDY ing
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/rladusdn02/)
 -->
+
+<!--
 ![rladusdn02's github stats](https://github-readme-stats.vercel.app/api?username=rladusdn02&show_icons=true)
 [![rladusdn02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rladusdn02&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rladusdn02)
+-->
