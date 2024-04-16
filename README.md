@@ -4,7 +4,7 @@ welcome 🙌🏻 to
 ### Interest At <br>
 * 📺 watching K-Drama & K-Movie & K-POP 
 * 🏂 SnowBoarding 
-* ⚾️ watching MLB : LAD
+* ⚾️ watching MLB : SD
 * ⚾️ watching KBO : Kiwoom Heroes
 
 ## Languages <br>
