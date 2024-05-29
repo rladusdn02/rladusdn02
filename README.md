@@ -39,11 +39,11 @@ welcome 🙌🏻 to
 |2023.03 ~ | 숙명여자대학교 게임 개발 소모임 #Verse |
 |2024.05 ~ | Codeit Boost Frontend 1기 in 숙명여자대학교 |
 
-<!--
+
 ## STUDY ing
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/rladusdn02/)
--->
+
 
 
 ![rladusdn02's github stats](https://github-readme-stats.vercel.app/api?username=rladusdn02&show_icons=true)
