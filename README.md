@@ -38,16 +38,16 @@ welcome 🙌🏻 to
 ## I'm IN
 ||Name|
 |--|--|
-|2023.03 ~ | 숙명여자대학교 게임 개발 소모임 #Verse |
-|2024.05 ~ | Codeit Boost Frontend 1기 in 숙명여자대학교 |
+|2023.03 ~ | 숙명여자대학교 게임 개발 소모임 [#Verse](https://github.com/VERSEEEEE) |
+|2024.05 ~ | [Codeit Boost Frontend 1기 in 숙명여자대학교](https://github.com/SMWU-PB-FrontEnd) |
 
 
-## STUDY ing
+<!--## STUDY ing
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/rladusdn02/)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/rladusdn02/)-->
 
 
 
-![rladusdn02's github stats](https://github-readme-stats.vercel.app/api?username=rladusdn02&show_icons=true)
+<!--![rladusdn02's github stats](https://github-readme-stats.vercel.app/api?username=rladusdn02&show_icons=true)-->
 [![rladusdn02's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rladusdn02&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rladusdn02)
 
