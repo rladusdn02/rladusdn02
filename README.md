@@ -1,11 +1,11 @@
 welcome 🙌🏻 to 
 # Yeonwoo Kim ' s GitHub
 
-### Interest At <br>
+<!-- ### Interest At <br>
 * 📺 watching K-Drama & K-Movie & K-POP 
 * 🏂 SnowBoarding 
 * ⚾️ watching MLB : SD
-* ⚾️ watching KBO : Kiwoom Heroes
+* ⚾️ watching KBO : Kiwoom Heroes -->
 
 ## Languages <br>
 ![react](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white)
@@ -38,7 +38,7 @@ welcome 🙌🏻 to
 ## I'm IN
 ||Name|
 |--|--|
-|2023.03 ~ | 숙명여자대학교 게임 개발 소모임 [#Verse](https://github.com/VERSEEEEE) |
+|2023.03 ~ 2023.12 | 숙명여자대학교 게임 개발 소모임 [#Verse](https://github.com/VERSEEEEE) |
 |2024.05 ~ | [Codeit Boost Frontend 1기 in 숙명여자대학교](https://github.com/SMWU-PB-FrontEnd) |
 
 
