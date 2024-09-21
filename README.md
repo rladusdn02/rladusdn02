@@ -41,7 +41,7 @@ welcome 🙌🏻 to
 |--|--|
 |2023.03 ~ 2023.12 | 숙명여자대학교 게임 개발 소모임 [#Verse](https://github.com/VERSEEEEE) |
 |2024.05 ~ | [Codeit Boost Frontend 1기 in 숙명여자대학교](https://github.com/SMWU-PB-FrontEnd) |
-|2024.09 ~ | UMC SMWU iOS|
+|2024.09 ~ | [UMC SMWU iOS](https://github.com/SMWUUMC/7th_UMC_iOS.git)|
 |2024.09 ~ | 숙명여자대학교 학습공동체 '코딱지'|
 
 
