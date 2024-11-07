@@ -15,6 +15,8 @@ welcome 🙌🏻 to
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![Csharp](https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white)
+![kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![swift](https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&logoColor=white)
 
 ## Design Tool <br>
 ![blender](https://img.shields.io/badge/blender-E87D0D?style=flat&logo=blender&logoColor=white)
@@ -43,11 +45,6 @@ welcome 🙌🏻 to
 |2024.05 ~ | [Codeit Boost Frontend 1기 in 숙명여자대학교](https://github.com/SMWU-PB-FrontEnd) |
 |2024.09 ~ | [UMC 7th SMWU iOS](https://github.com/rladusdn02/7th_UMC_iOS)|
 |2024.09 ~ | 숙명여자대학교 학습공동체 '[코딱지](https://github.com/rladusdn02/snot_24)'|
-
-
-<!--## STUDY ing
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/rladusdn02/)-->
 
 
 
