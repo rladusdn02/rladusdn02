@@ -41,7 +41,7 @@ welcome 🙌🏻 to
 |2024.10 ~ 2024.12|식집사|[Team](https://github.com/chaeminyu/android-shick-jip)|Design & Frontend & Backend|![kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)|
 |2025.01 ~ 2025.02|메이트랑 : UMC 7th PJ|[Team](https://github.com/duckmelang/duckmelang-frontend)|Frontend|![swift](https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&logoColor=white)|
 |2025.01 ~ |숙틴 : 개발자 커피챗 사이트|[Team](https://github.com/sooktin/frontend_repository)|Frontend|![react](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white)|
-|2025.03 ~ |눈Song : 리듬게임 | [Team](https://github.com/nunSong)|Developer|![Unity](https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=grey) & ![Csharp](https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white)|
+|2025.03 ~ 2025.06.13|눈Song : 리듬게임 | [Team](https://github.com/nunSong)|Developer|![Unity](https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=grey) & ![Csharp](https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white)|
 
 <!--|2024.09.16 ~ 2024.10.05| 조각집 : 코드잇PB ToyPJ | [Team](https://github.com/rladusdn02/ZogakZip.git) | Frontend | ![react](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white) |-->
 
@@ -58,7 +58,7 @@ welcome 🙌🏻 to
 |2024.09 ~ 2025.02| [UMC 7th SMWU iOS](https://github.com/rladusdn02/7th_UMC_iOS)|
 |2024.09 ~ 2024.12 | 숙명여자대학교 학습공동체 '[코딱지](https://github.com/rladusdn02/snot_24)'|
 |2025.01 ~ | 숙명여자대학교 웹 개발소모임 '[숙틴](https://github.com/sooktin)'|
-|2025.03 ~ | 숙명여자대학교 자기주도진로설계프로젝트 Team : '[눈Song](https://github.com/nunSong)'|
+|2025.03 ~ 2025.06| 숙명여자대학교 자기주도진로설계프로젝트 Team : '[눈Song](https://github.com/nunSong)'|
 
 
 
