@@ -1,7 +1,8 @@
 welcome 🙌🏻 to 
 # Yeonwoo Kim ' s GitHub
 
-<!-- ### Interest At <br>
+<!--
+### Interest At <br>
 * 📺 watching K-Drama & K-Movie & K-POP 
 * 🏂 SnowBoarding 
 * ⚾️ watching MLB : SD
@@ -11,6 +12,7 @@ welcome 🙌🏻 to
 > Dept of. Software Convergence <br>
 > Dept of. Augmented Reality and Virtual Reality
 
+<!--
 ## Languages <br>
 ![react](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
@@ -29,7 +31,7 @@ welcome 🙌🏻 to
 ![Rhino](https://img.shields.io/badge/rhino-801010?style=flat&logo=rhinoceros&logoColor=white)
 
 <!--|2022.03 ~ 2022.06 | 미디어 감상 기록 Web | Personal | Frontend |  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) & ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white) & ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white) |-->
-
+<!--
 ## Projects <br>
 |  | Title |Type| Role | Stack |
 |---|---|---|---|---|
@@ -46,6 +48,7 @@ welcome 🙌🏻 to
 <!--|2024.09.16 ~ 2024.10.05| 조각집 : 코드잇PB ToyPJ | [Team](https://github.com/rladusdn02/ZogakZip.git) | Frontend | ![react](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white) |-->
 
 
+<!--
 ## Awawrds 🏆
 <p>2023.12.27 COKOTHON 대상</p>
 <p>2025.01.01 숙명여자대학교 학습공동체 우수그룹 선정</p>
@@ -60,6 +63,7 @@ welcome 🙌🏻 to
 |2024.09 ~ 2024.12 | 숙명여자대학교 학습공동체 '[코딱지](https://github.com/rladusdn02/snot_24)'|
 |2025.01 ~ | 숙명여자대학교 웹 개발소모임 '[숙틴](https://github.com/sooktin)'|
 |2025.03 ~ 2025.06| 숙명여자대학교 자기주도진로설계프로젝트 Team : '[눈Song](https://github.com/nunSong)'|
+
 
 
 
